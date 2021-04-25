@@ -1,7 +1,10 @@
 # Cplusplus-program
-1. How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
-   User needs are important in the development process.  In order to implement them into a program, planning and planning is needed along with guidance from the Product Owner.  User stories are simplified instructions of a requirement for a software project.  This is important because it assists the developers and other team members in knowing what they need to accomplish for the project.
-2. How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?  
-   I approach developing programs by first planning with pseudocode and/or flowcharts to get a good idea of what the program needs to function.  Then, I will develop the code using software development best practices, and if in a team environment it is important to work together and use good communication.  I plan to use Test Driven Development in my future development work as I found it to be the best practice.  This agile practice involves coding, testing, and design being tightly interwoven
-3. What does it mean to be a good team member in software development?
-  Being a good team member in software development involves communication, positive feedback on other's work, and fully understanding your role in the development process, whether it be developer, tester, scrum master, etc.  
+
+1. How can I ensure that my code, program, or software is functional and secure?
+   There are numerous ways to ensure your code, program, or software is functional and secure.  First, using software development best practices such as writing comments, spacing your code to ensure readability, and following the design requirements.  While I develop code, I try to continuously run the program to ensure it is functional.  I don't wait until I'm fully done writing the code to run and debug it because I want to lessen the bugs and issues.  Additionally, testing your software is particularly important as it makes sure you have a fully functioning program.  Testing can be done through non-functional testing, performance testing, unit testing, etc.
+
+2. How do I interpret user needs and incorporate them into a program?
+   User needs is the process of understanding software requirements based on what would benefit the user.  By understand the user's needs such as problems, processes, goals, and preferences, developers can tailor the best software program for their users.  Usually, the product owner and scrum master will put out the software requirements that should meet the user's needs.  Through testing, the user's needs will also be understood more thoroughly.  
+
+3. How do I approach designing software?
+   When designing software, first you should fully understand the requirements and point of the software project.  By directly following the software requirements and asking questions, you should be able to approach designing said software with more ease.  Then, I will organize my project and use best practicies to ensure functionality.  Also, one of the most important pieces of developing software is continuously testing and running the project to make sure it works.
